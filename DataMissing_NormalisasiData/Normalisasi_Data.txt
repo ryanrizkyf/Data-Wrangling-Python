@@ -9,6 +9,7 @@ dimana Usia dan Masa Kerja memiliki range puluhan dan Gaji mempunyai range nilai
 Memang terlihat sederhana, namun hal ini bisa menjadi masalah besar dalam contoh kasus klasterisasi 
 atau klasifikasi. Masuk pada kasus K-means yang sudah pernah dibahas sebelumnya. 
 K-means merupakan algoritma klasterisasi (clustering) yang menggunakan perhitungan jarak dalam prosesnya. 
+
 Sekarang coba bayangkan :
 Lihat gambar Normalisasi_Data_2.png
 
